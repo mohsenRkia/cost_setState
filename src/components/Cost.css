@@ -1,0 +1,13 @@
+.cost-main-container{
+    width: 70%;
+    margin: 0 auto;
+    background-color: darkseagreen;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+.cost-type{
+margin-bottom: 10px;
+
+}

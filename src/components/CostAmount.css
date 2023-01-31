@@ -1,0 +1,9 @@
+.cost-amount{
+    width: 100px;
+    margin: 0 auto;
+color: blueviolet;
+background-color: bisque;
+border: 2px solid rgb(255, 143, 143);
+border-radius: 5px;
+
+}
